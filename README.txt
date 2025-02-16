@@ -1,3 +1,11 @@
+This code is a simple website which will track Fish games and create a ranking system.
+It is rather informal now and if it gets enough attention or will I will do an update to it and make it Finding Nemo themed.
+This uses php and Sql database to run and make sure you correctly configure the database connection. 
+
+
+
+
+Design by:
 Alpha by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
