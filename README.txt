@@ -2,7 +2,8 @@ This code is a simple website which will track Fish games and create a ranking s
 It is rather informal now and if it gets enough attention or will I will do an update to it and make it Finding Nemo themed.
 This uses php and Sql database to run and make sure you correctly configure the database connection. 
 
-
+I used XAMPP to create it on my local host.
+Make sure you change the file database/connect.php
 
 
 Design by:
