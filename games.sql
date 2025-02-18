@@ -1,0 +1,21 @@
+CREATE TABLE games (
+    id INT(11) AUTO_INCREMENT PRIMARY KEY,
+    recorder INT(11) NOT NULL,
+    date TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    image VARCHAR(100) NOT NULL,
+    notes VARCHAR(1023) NOT NULL,
+    1score INT(11) NOT NULL,
+    1player1 INT(11) NOT NULL,
+    1player1T INT(11) NOT NULL,
+    1player2 INT(11) NOT NULL,
+    1player2T INT(11) NOT NULL,
+    1player3 INT(11) NOT NULL,
+    1player3T INT(11) NOT NULL,
+    2score INT(11) NOT NULL,
+    2player1 INT(11) NOT NULL,
+    2player1T INT(11) NOT NULL,
+    2player2 INT(11) NOT NULL,
+    2player2T INT(11) NOT NULL,
+    2player3 INT(11) NOT NULL,
+    2player3T INT(11) NOT NULL
+);
